@@ -60,8 +60,8 @@ This project implements a simple banking system in Java using **OOP principles**
 
 ## Sample Usage
 ```java
-BankAccount savings = new SavingsAccount(1001, "Alice", 2000);
-BankAccount current = new CurrentAccount(1002, "Bob", 1000);
+BankAccount savings = new SavingsAccount(1001, "User1", 2000);
+BankAccount current = new CurrentAccount(1002, "User2", 1000);
 
 try {
     savings.deposit(500);
