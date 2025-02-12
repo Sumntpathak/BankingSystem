@@ -36,7 +36,7 @@ This project implements a simple banking system in Java using **OOP principles**
    cd bank-system
    ```
 3. Open the project in IntelliJ IDEA.
-4. Run `BankSystem.java` to execute the program.
+4. Run `Main.java` to execute the program.
 
 ## Class Structure
 ### `BankAccount` (Abstract Class)
